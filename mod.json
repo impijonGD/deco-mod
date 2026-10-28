@@ -1,15 +1,15 @@
 {
-	"geode": "4.0.1",
+	"geode": "5.11.2",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "twojnick.decoplus",
-	"name": "Deco Plus",
+	"id": "impijonGD.decomod",
+	"name": "Deco mod",
 	"version": "v1.0.0",
-	"developer": "TwojNick",
+	"developer": "impijonGD",
 	"description": "Darmowe narzędzia do dekorowania leveli: losowanie, okrąg, linia.",
 	"settings": {
 		"random-rotation": {
